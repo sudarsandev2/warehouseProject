@@ -10,5 +10,7 @@ public class WarehouseApplication {
 		SpringApplication.run(WarehouseApplication.class, args);
 		
 	}
+	
+	//comment line
 
 }
